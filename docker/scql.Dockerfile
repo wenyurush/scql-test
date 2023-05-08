@@ -1,4 +1,4 @@
-FROM openanolis/anolisos:8.6
+FROM openanolis/anolisos:8.8
 
 ENV TZ=Asia/Shanghai
 

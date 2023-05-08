@@ -30,9 +30,9 @@ require (
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
-	gorm.io/driver/mysql v1.4.4
+	gorm.io/driver/mysql v1.5.0
 	gorm.io/driver/sqlite v1.3.6
-	gorm.io/gorm v1.23.8
+	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
 	modernc.org/parser v1.0.3
 	modernc.org/y v1.0.4
 )
@@ -45,7 +45,7 @@ require (
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.11.2 // indirect
-	github.com/go-sql-driver/mysql v1.6.0 // indirect
+	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
@@ -81,4 +81,3 @@ require (
 	modernc.org/sortutil v1.1.1 // indirect
 	modernc.org/strutil v1.1.3 // indirect
 )
-

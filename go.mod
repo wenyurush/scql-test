@@ -23,7 +23,7 @@ require (
 	github.com/sethvargo/go-password v0.2.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	go.uber.org/zap v1.18.1
 	golang.org/x/exp v0.0.0-20221006183845-316c7553db56
 	golang.org/x/text v0.7.0
@@ -81,4 +81,3 @@ require (
 	modernc.org/sortutil v1.1.1 // indirect
 	modernc.org/strutil v1.1.3 // indirect
 )
-

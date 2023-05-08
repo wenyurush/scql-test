@@ -33,7 +33,7 @@ require (
 	gorm.io/driver/mysql v1.5.0
 	gorm.io/driver/sqlite v1.3.6
 	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
-	modernc.org/parser v1.0.3
+	modernc.org/parser v1.0.7
 	modernc.org/y v1.0.4
 )
 
@@ -76,7 +76,7 @@ require (
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	modernc.org/golex v1.0.1 // indirect
+	modernc.org/golex v1.0.5 // indirect
 	modernc.org/mathutil v1.5.0 // indirect
 	modernc.org/sortutil v1.1.1 // indirect
 	modernc.org/strutil v1.1.3 // indirect

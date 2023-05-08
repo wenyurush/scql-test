@@ -18,13 +18,13 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pingcap/check v0.0.0-20211026125417-57bd13f7b5f0
 	github.com/pingcap/errors v0.11.5-0.20210425183316-da1aaba5fb63
-	github.com/pingcap/log v0.0.0-20210625125904-98ed8e2eb1c7
+	github.com/pingcap/log v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/sethvargo/go-password v0.2.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.2
-	go.uber.org/zap v1.18.1
+	go.uber.org/zap v1.19.0
 	golang.org/x/exp v0.0.0-20221006183845-316c7553db56
 	golang.org/x/text v0.7.0
 	google.golang.org/protobuf v1.28.1
@@ -68,8 +68,8 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.9 // indirect
-	go.uber.org/atomic v1.7.0 // indirect
-	go.uber.org/multierr v1.6.0 // indirect
+	go.uber.org/atomic v1.9.0 // indirect
+	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect

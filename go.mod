@@ -27,7 +27,7 @@ require (
 	go.uber.org/zap v1.18.1
 	golang.org/x/exp v0.0.0-20221006183845-316c7553db56
 	golang.org/x/text v0.7.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/driver/mysql v1.5.0

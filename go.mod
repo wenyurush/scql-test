@@ -34,7 +34,7 @@ require (
 	gorm.io/driver/sqlite v1.3.6
 	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
 	modernc.org/parser v1.0.7
-	modernc.org/y v1.0.4
+	modernc.org/y v1.0.9
 )
 
 require (
